@@ -1,2 +1,3 @@
-# mister-irrigation
-Overhead mister control
+# Mister Irrigation
+
+ESP32 based control for overhead plant misters.
